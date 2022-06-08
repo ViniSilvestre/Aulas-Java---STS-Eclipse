@@ -5,7 +5,7 @@
 
 package br.com.generation.atividades;
 
-public class AtividadeFor1 {
+public class AtividadeFor01 {
 	
 	public static void main(String[] args) {
 		

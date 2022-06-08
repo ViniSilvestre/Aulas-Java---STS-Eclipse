@@ -1,0 +1,8 @@
+package br.com.generation.Aula02;
+
+public class ExercicioVariavel04 {
+
+	public static void main(String[] args) {
+		
+	}
+}

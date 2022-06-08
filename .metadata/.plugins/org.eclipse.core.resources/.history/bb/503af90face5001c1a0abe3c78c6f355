@@ -1,0 +1,19 @@
+package br.com.generation.aula01;
+
+public class ExemploVariavel01 {
+
+	public static void main(String[] args) {
+		
+		int var1;
+		double var2;
+		
+		var1=1000;
+		var2=157.89;
+		
+		System.out.printf("Valor da Variavel 1: %d\n",var1);
+		System.out.println("Valor da Variavel 1: "+var1);
+		System.out.println("O Preço deste produto é: "+var2);
+			
+	}
+
+}

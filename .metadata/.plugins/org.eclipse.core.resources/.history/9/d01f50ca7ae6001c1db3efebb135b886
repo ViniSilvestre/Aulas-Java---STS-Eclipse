@@ -1,0 +1,24 @@
+/*
+*
+*
+*
+*/
+
+package br.com.generation.aula01;
+
+import java.util.Scanner;
+
+public class AtividadeLacoDecisao02 {
+
+	public static void main(String[] args) {
+		Scanner leia = new Scanner(System.in);
+		
+		int valor;
+		
+		System.out.println("Digite algum valor: ");
+		valor = leia.nextInt();
+		
+		
+	}
+
+}

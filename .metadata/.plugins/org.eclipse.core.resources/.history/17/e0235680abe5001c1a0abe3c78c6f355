@@ -1,0 +1,17 @@
+package br.com.generation.aula01;
+
+public class ExemploVariavel01 {
+
+	public static void main(String[] args) {
+		
+		int var1;
+		int var2;
+		
+		var1=1000;
+				
+		System.out.println("Valor da Variavel 1: \n"+var1);
+		System.out.println("Valor da Variavel 1: "+var1);
+
+	}
+
+}

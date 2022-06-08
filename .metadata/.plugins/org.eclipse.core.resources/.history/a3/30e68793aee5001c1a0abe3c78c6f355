@@ -1,0 +1,21 @@
+package br.com.generation.aula01;
+
+public class ExemploVariavel02 {
+
+	public static void main(String[] args) {
+		
+		int var1;
+		double var2,var3; 
+				
+		var1=10;
+		var2=10.0;
+		
+		System.out.println("Valor da 1° Variavel: "+var1);
+		System.out.println("Valor da 2° Variavel: "+var2);
+		
+		var3=var1*var2/3;
+		
+		System.out.println("O valor é: "+var3);
+		
+	}
+}

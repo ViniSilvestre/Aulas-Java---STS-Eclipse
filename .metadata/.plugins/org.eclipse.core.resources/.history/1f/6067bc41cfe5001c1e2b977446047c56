@@ -1,0 +1,20 @@
+package br.com.generation.Aula02;
+
+public class ExercicioVariavel03 {
+
+	public static void main(String[] args) {
+		
+		Scanner leia=new Scanner(System.in);
+		
+		double galoes,litros;
+		litros = 3.7854;
+		
+		System.out.println("Digite o número de galões: ");
+		
+		
+		
+		
+
+	}
+
+}

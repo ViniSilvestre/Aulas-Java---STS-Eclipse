@@ -1,0 +1,25 @@
+/*Faça um sistema que leia a idade de uma pessoa expressa em anos, meses e
+*dias e mostre-a expressa apenas em dias.
+*/
+
+package br.com.generation.aula01;
+
+import java.util.Scanner;
+
+public class ExercicioJava2 {
+
+	public static void main(String[] args) {
+		Scanner leia = new Scanner(System.in);
+		
+		int ano, mes, dia, dias, idade;
+		
+		System.out.println("Digite aqui sua Idade: ");
+		idade = leia.nextInt();
+		
+		
+		dias = idade*360;
+		System.out.println("Voce tem ao todo " + dias + " dias!");
+		
+	}
+
+}

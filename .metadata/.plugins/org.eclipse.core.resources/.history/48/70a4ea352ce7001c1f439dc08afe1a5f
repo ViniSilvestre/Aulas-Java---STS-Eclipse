@@ -1,0 +1,14 @@
+package br.com.generation.forr;
+
+public class ExemploFor02 {
+
+	public static void main(String[] args) {
+		
+		int n=20;
+		int i, soma;
+		
+		
+
+	}
+
+}

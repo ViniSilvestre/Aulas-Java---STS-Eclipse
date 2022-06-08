@@ -1,0 +1,30 @@
+/*
+*
+*
+*
+*/
+
+package br.com.generation.aula01;
+
+import java.util.Scanner;
+
+public class AtividadeLacoDecisao02 {
+
+	public static void main(String[] args) {
+		Scanner leia = new Scanner(System.in);
+		
+		int valor1, valor2, valor3, valor4;
+		
+		System.out.println("Digite algum valor: ");
+		valor1 = leia.nextInt();
+		System.out.println("Digite algum valor: ");
+		valor2 = leia.nextInt();
+		System.out.println("Digite algum valor: ");
+		valor3 = leia.nextInt();
+		
+		valor4 = (valor2+valor1)*(valor3+120);
+		
+		System.out.println("O resultado disso tudo É: "+valor4);
+	}
+
+}
